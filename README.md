@@ -16,7 +16,6 @@ This project applies Data Mining and Machine Learning techniques to analyze and 
 ### Data Source
 - **Dataset**: TMDB 5000 Movies
 - **File**: `tmdb_5000_movies.csv`
-- **Path**: `data movie/tmdb_5000_movies.csv`
 
 ### Features Used
 
@@ -56,8 +55,7 @@ This project applies Data Mining and Machine Learning techniques to analyze and 
 ```
 Movie-Analytics-CO3029/
 │
-├── data movie/
-│   └── tmdb_5000_movies.csv      # TMDB movie data
+├──  tmdb_5000_movies.csv      # TMDB movie data
 │
 ├── images/                         # Images/charts directory
 │
